@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 NCC LTD – End-to-End Equity Research Report
+# 📊 NBCC LTD – End-to-End Equity Research Report
 ### Financial Statement Analysis • Order Book Analysis • Valuation • Financial Modeling • Investment Recommendation
 
 <img src="https://img.shields.io/badge/Finance-Equity%20Research-blue?style=for-the-badge">
